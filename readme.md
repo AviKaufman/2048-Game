@@ -6,4 +6,4 @@ The game runs pretty smoothly and works just as the original version did. I was 
 
 The game looks like this:
 
-![2048 Game Snapshot](2048.py)
+![2048 Game Snapshot](2048.png)
